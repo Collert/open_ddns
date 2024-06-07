@@ -24,7 +24,7 @@ When your budget is 0 and you can't find a truly free DDNS service, I got you co
 1. Clone this repository:
 
    ```sh
-   git clone https://github.com/yourusername/yourrepo.git
+   git clone https://github.com/Collert/open_ddns.git
    cd yourrepo
    ```
 
