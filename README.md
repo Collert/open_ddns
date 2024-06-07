@@ -25,7 +25,7 @@ When your budget is 0 and you can't find a truly free DDNS service, I got you co
 
    ```sh
    git clone https://github.com/Collert/open_ddns.git
-   cd yourrepo
+   cd open_ddns
    ```
 
 2. Create a virtual environment and activate it:
